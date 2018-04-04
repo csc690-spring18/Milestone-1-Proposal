@@ -30,4 +30,5 @@ Proposal:
 5. Users shall be able to contact administrator. (16 hours, Xiayi Wang)
 
 Basic wire-frames for main feature:
-<a href="Milestone-1-Proposal/690_WireFrame.pdf">Click here</a>
+
+<a href="https://github.com/csc690-spring18/Milestone-1-Proposal/blob/master/690_WireFrame.pdf">Click here</a>
